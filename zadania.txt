@@ -1,0 +1,10 @@
+2. Snackbar
+Przygotuj komponent Snackbar, który będzie się wyświetlał na ekranie po kliknięciu w przycisk przez określoną liczbę sekund (domyślnie 5). Będzie możliwość zmiany tej liczby poprzez propsy.
+
+Tips: Podejrzyj jak może wyglądać taki komponent na podstawie Material UI: https://material-ui.com/components/snackbars/#customized-snackbars
+
+Modyfikacja
+Zmodyfikuj komponent Snackbar tak, aby można było poprzez propsy przekazać wartość, która określi jego położenie na ekranie. Np. center-bottom wyświetli go wycentrowanego na dole, a top-right w prawym górnym rogu.
+
+Modyfikacja
+Zmodyfikuj komponent Snackbar tak, aby przyjmował typ wyświetlanej treści i na tej podstawie zmieniał kolor tła oraz fontu. Możesz wykorzystać kolory z tego przykładu: https://material-ui.com/components/snackbars/#customized-snackbars
